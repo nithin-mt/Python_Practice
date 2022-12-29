@@ -1,1 +1,1 @@
-# 100-days-of-code-2021
+# Various Python codes to get familiarized with environment and packages.
